@@ -6,7 +6,7 @@ from datetime import datetime
 # =========================
 # 1. Configuration
 # =========================
-BASE_URL = "http://localhost:4300"  # <-- Change here if needed
+BASE_URL = "https://b49ebf7lsb.execute-api.us-west-1.amazonaws.com/stage"  # <-- Change here if needed
 
 DEFAULT_PROMPT_ROLES = [
     {
